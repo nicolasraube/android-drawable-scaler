@@ -2,7 +2,7 @@
  *
  * @author Nicolas 27.02.2016
  *
-Screen Capture is a tool for taking screenshots.
+Android Drawable Scaler is a tool for scaling images according to the dpi factors.
 Copyright (C) 2016  Nicolas Raube
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
